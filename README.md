@@ -9,19 +9,21 @@ Este repositório contém scripts SQL demonstrando consultas avançadas em MySQL
 ├── 📁 scripts/
 │   ├── 📄 apresentacao_dados.sql
 │   ├── 📄 filtrando_consultas.sql
-│   └── 📄 introducao_banco_dados.sql
+│   ├── 📄 introducao_banco_dados.sql
+│   └── 📄 juntando_tabelas_consultas.sql
 └── 📁 database/
 │   ├── scripts_create_tables.sql
 ```
 
 ## 📑 Conteúdo dos Scripts
 
-| Script                       | Descrição                                             |
-| ---------------------------- | ----------------------------------------------------- |
-| `apresentacao_dados.sql`     | Exemplos de `DISTINCT`, `ORDER BY`, `LIMIT`, `HAVING` |
-| `filtrando_consultas.sql`    | Demonstrações de `WHERE`, `LIKE`, `IN`, `AND`, `OR`   |
-| `introducao_banco_dados.sql` | Introdução ao banco de dados e tabelas                |
-| `scripts_create_tables.sql`  | Criação de tabelas para uso dos scripts               |
+| Script                           | Descrição                                             |
+| -------------------------------- | ----------------------------------------------------- |
+| `apresentacao_dados.sql`         | Exemplos de `DISTINCT`, `ORDER BY`, `LIMIT`, `HAVING` |
+| `filtrando_consultas.sql`        | Demonstrações de `WHERE`, `LIKE`, `IN`, `AND`, `OR`   |
+| `introducao_banco_dados.sql`     | Introdução ao banco de dados e tabelas                |
+| `juntando_tabelas_consultas.sql` | `JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `INNER JOIN`       |
+| `scripts_create_tables.sql`      | Criação de tabelas para uso dos scripts               |
 
 ## 🚀 Instruções de Uso
 
