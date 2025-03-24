@@ -8,6 +8,7 @@ Este repositório contém scripts SQL demonstrando consultas avançadas em MySQL
 .
 ├── 📁 scripts/
 │   ├── 📄 apresentacao_dados.sql
+|   ├── 📄 exemplos_relatorios.sql
 │   ├── 📄 filtrando_consultas.sql
 │   ├── 📄 funcoes_MySQL.sql
 │   ├── 📄 introducao_banco_dados.sql
@@ -22,6 +23,7 @@ Este repositório contém scripts SQL demonstrando consultas avançadas em MySQL
 | -------------------------------- | --------------------------------------------------------- |
 | `apresentacao_dados.sql`         | Exemplos de `DISTINCT`, `ORDER BY`, `LIMIT`, `HAVING`     |
 | `filtrando_consultas.sql`        | Demonstrações de `WHERE`, `LIKE`, `IN`, `AND`, `OR`       |
+| `exemplos_relatorios.sql`        | Exemplos de `GROUP BY`, `ORDER BY`, `DATE_FORMAT`         |
 | `funcoes_MySQL.sql`              | Funções de agregação, `COUNT`, `SUM`, `AVG`, `MIN`, `MAX` |
 | `introducao_banco_dados.sql`     | Introdução ao banco de dados e tabelas                    |
 | `juntando_tabelas_consultas.sql` | `JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `INNER JOIN`           |
